@@ -20,20 +20,19 @@ Fundbox is a decentralized crowdfunding platform built on web3 technologies, Rea
 To run the project locally, follow these steps:
 
 * Clone the repository:
-git clone https://github.com/elizabethedwards/[Project-Repo].git
+git clone https://github.com/elizabethedwards/fundboxweb3.git
 
 * Install the dependencies:
 cd [Project-Repo]
 npm install
 Configure the environment variables:
 
-Rename the .env.example file to .env.
+* Rename the .env.example file to .env.
 Update the necessary environment variables with your configuration.
-Start the development server:
 
-bash
-Copy code
-npm start
+Start the development server:
+npm run dev
+
 Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
@@ -44,7 +43,6 @@ Author
 This project is authored by Elizabeth Olorunleke Edwards.
 
 Acknowledgments
-[List any acknowledgments or resources you would like to mention]
-Feel free to add additional sections, such as Deployment, Testing, or Roadmap, depending on your project's needs.
+Thanks Solana Bootcamp, AngelHack Bootcamp for inspiring me to build this.
 
 Enjoy crowdfunding on [Project Name]!
