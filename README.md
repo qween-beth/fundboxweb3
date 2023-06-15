@@ -11,6 +11,8 @@ Fundbox is a decentralized crowdfunding platform built on web3 technologies, Rea
 * Secure Wallet Integration: Integration with MetaMask wallet provides a secure and user-friendly experience for managing funds.
 * Smart Contract Automation: The use of Solidity smart contracts automates key processes, such as project creation, fundraising, and fund distribution.
 
+# App Whitepaper
+https://my.visme.co/view/4d10v9zq-fundbox-web3-app
 
 # Technology Stack
 *React Framework: A popular JavaScript framework for building user interfaces, providing a modular and reusable component-based architecture.
